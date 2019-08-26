@@ -57,7 +57,7 @@ Rosario M. Piro (1,2,#), Stefan Wiesberg (3), Gunnar Schramm (1,2), Nico Rebel (
 
 Bioinformatics26(9):1225-1231, 2010.
 
-Gunnar Schramm (1,2), Stefan Wiesberg (3,4), Nicolle Diessl (1), Anna-Lena Kranz (1,2), Vitalia Sagulenko (5), Marcus Oswald (3,4), Gerhard Reinelt (3), Frank Westermann (5), Roland Eils (1,2,*) and Rainer König (1,2,*)
+Gunnar Schramm (1,2), Stefan Wiesberg (3,4), Nicolle Diessl (1), Anna-Lena Kranz (1,2), Vitalia Sagulenko (5), Marcus Oswald (3,4), Gerhard Reinelt (3), Frank Westermann (5), Roland Eils (1,2, *) and Rainer König (1,2, *)
 
 (1) Department of Bioinformatics and Functional Genomics, Institute of Pharmacy and Molecular Biotechnology, and Bioquant, Im Neuenheimer Feld 267, 69120 Heidelberg, Germany
 (2) Department of Theoretical Bioinformatics, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120 Heidelberg, Germany
