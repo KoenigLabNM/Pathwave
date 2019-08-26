@@ -1,0 +1,30 @@
+
+Grid Arranger v. 1.0
+
+-------------------------------------------------------
+Installation
+-------------------------------------------------------
+Step 1:  Install Abacus v.2.4-alpha
+To run the Grid Arranger, you will need to install Abacus v.2.4-alpha (later versions are not compatible) first. It is included in this download. Follow the instructions in the file INSTALL in the main directory of the abacus package. Choose "GCC 2.9" whenever Abacus asks to specify a compiler.
+Abacus requires an external linear program solver. We recommend CPLEX, which is free for academic research and available from www.ibm.com/software/integration/optimization/cplex-optimizer/. The following linear program solvers are also compatible: Cbc, Clp, DyLP, GLPK, Gurobi, MOSEK, Soplex, SYMPHONY, Vol, XPRESS-MP.
+
+Step 2:  Install the Grid Arranger
+To install the Grid Arranger, open the file Makefile in its main directory. Adjust the paths to Abacus and Cplex at the top of the file, then enter your preferred gnu compiler. You should use the same compiler that you used to compile Abacus. On a Unix/Linux system, execute the following command from a shell:
+make
+
+
+-------------------------------------------------------
+Running the Grid Arranger
+-------------------------------------------------------
+Copy your input files to the folder "in". It is located in the main directory of the GridArranger. To start the computation on a Unix/Linux system, execute the following commands from a shell:
+
+cd <main directory of GridArranger>
+chmod u+x runGridArranger
+./runGridArranger
+
+The Grid Arranger now arranges all files in the input folder "in" and stores the results in the output folder "out". It will print status messages to your shell. After the calculation is finished, the file "statistics.log" is being created in the output folder "out". It contains some information about the success of the run as well as (possible) error messages. 
+
+In the unlikely case that no approximative solution could be found for one of the input files, e.g. if the file is very large, you can try the following steps:
+- Rerun the solver. It contains several random elements, such that the results of different runs might differ from each other.
+- Open the file ".abacus" in the folder "bin" and increase the parameter MaxCpuTime. It is set to 30 minutes for every input file per default. 
+
