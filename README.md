@@ -37,7 +37,7 @@ The following software is needed only to preprocess further pathway data sets fr
 
 ## Publications
 
-Network topology-based detection of differential gene regulation and regulatory switches in cell metabolism and signaling
+### Network topology-based detection of differential gene regulation and regulatory switches in cell metabolism and signaling
 
 BMC Systems Biology8:56, 2014.
 
@@ -53,7 +53,7 @@ Rosario M. Piro (1,2,#), Stefan Wiesberg (3), Gunnar Schramm (1,2), Nico Rebel (
 
 -----
 
-## PathWave: Discovering patterns of differentially regulated enzymes in metabolic pathways
+### PathWave: Discovering patterns of differentially regulated enzymes in metabolic pathways
 
 Bioinformatics26(9):1225-1231, 2010.
 
@@ -68,7 +68,7 @@ Gunnar Schramm (1,2), Stefan Wiesberg (3,4), Nicolle Diessl (1), Anna-Lena Kranz
 
 -----
 
-## Exact solution of the 2-dimensional grid arrangement problem
+### Exact solution of the 2-dimensional grid arrangement problem
 
 Discrete Optimization9:189-199, 2012.
 
