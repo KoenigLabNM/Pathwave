@@ -8,7 +8,7 @@ CITING PATHWAVE: please cite Piro et al (2014) for PathWave version 2.1, Schramm
 
 ## Downloads
 
-PathWave version 2.1 (Piro et al. 2014):
+### PathWave version 2.1 (Piro et al. 2014):
 
 The R package does already include all necessary data for BiGG/Human recon 1 (H. sapiens) and KEGG (H. sapiens, M. musculus, D. melanogaster, C. elegans, D. rerio, E. coli)
 
@@ -17,7 +17,7 @@ The R package does already include all necessary data for BiGG/Human recon 1 (H.
     PathWave v2.1 - User Manual
     PathWave v2.1 - Usage Example (Quick Guide)
 
-## Additional software for PathWave version 2.1:
+### Additional software for PathWave version 2.1:
 
 The following software is needed only to preprocess further pathway data sets from KEGG (KGML) or BiGG (SBML), not for applying PathWave to already available, preprocessed pathway data. Note: GridArranger is also included as external code in the PathWave 2.1 R package. We provide it here as an independent package because it may be useful for other purposes.
 
@@ -25,7 +25,7 @@ The following software is needed only to preprocess further pathway data sets fr
     GridArranger v1.0 README - basic information on installation and usage.
     ABACUS v2.4-alpha - required by GridArranger; this package is provided with kind permission of the original authors at the University of Cologne, Germany, because newer versions of ABACUS (available at the ABACUS webiste) are not compatible with GridArranger.
 
-## PathWave version 1.0 (Schramm et al. 2010):
+### PathWave version 1.0 (Schramm et al. 2010):
 
     Short manual
     Executable R file usePathWave.R
