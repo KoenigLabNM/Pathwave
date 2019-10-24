@@ -4,8 +4,6 @@
 
 PathWave enables the identification of disease specific regulation patterns by combining gene expression data and network topology. PathWave is preferable to classical enrichment tests as it offers a much higher sensitivity for detecting such functionally related regulation patterns. Additionally, it is more precise to a permutation based enrichment method (Schramm et al 2010).
 
-CITING PATHWAVE: please cite Piro et al (2014) for PathWave version 2.1, Schramm et al (2010) for PathWave version 1.0, and both papers (Schramm et al 2010; Piro et al 2014) for PathWave in general.
-
 ## Downloads
 
 ### PathWave version 2.1 (Piro et al. 2014):
@@ -76,3 +74,6 @@ Marcus Oswald (1,2), Gerhard Reinelt (1), Stefan Wiesberg (1,2)
 
 (1) Institute of Computer Science, University of Heidelberg, 69120 Heidelberg, Germany
 (2) Interdisciplinary Center for Scientific Computing, University of Heidelberg, 69120 Heidelberg, Germany
+
+-----
+Please cite: Piro et al (2014) for PathWave version 2.1, Schramm et al (2010) for PathWave version 1.0, and both papers (Schramm et al 2010; Piro et al 2014) for PathWave in general.
